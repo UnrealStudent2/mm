@@ -84,7 +84,7 @@ sudo apt install make git build-essential binutils-mips-linux-gnu python3 python
 Create your own fork of the repository at `https://github.com/zeldaret/mm`. Then clone your fork where you wish to have the project, with the command:
 
 ```bash
-git clone https://github.com/<YOUR_USERNAME>/mm.git
+git clone https://github.com/UnrealStudent2/mm.git
 ```
 
 This will copy the GitHub repository contents into a new folder in the current directory called `mm`. Change into this directory before doing anything else:
